@@ -2,6 +2,9 @@
 
 Unity Editor Version: 6000.2.0b8
 
+In Unity Hub > Installs (TAB) > Install Editor > Pre-releases > Select Unity 6000.2.0b8 (Beta)
+
+Note: Or wherever you find the required version.
 
 # Project opening process
 
