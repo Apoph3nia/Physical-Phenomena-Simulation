@@ -16,6 +16,8 @@ In Unity Hub > Projects (TAB) > Add > Add project from disk > Select the folder 
 
 Go on https://huggingface.co/. Sign-up / Log-in. Profile > Access Tokens > Create new Access Token > Type: Fine-grained > On the Inference options check them all > Create Token > Copy the token.
 
+
 In Unity you can assign that token on the Inspector tab of the AI Assistant Object (in its AIAssistant.cs script).
+
 
 You also need to request access to a selected model from huggingface. For example, for https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct, you need to fill a form, like name-surname, date of birth, etc., and submit it. It usually doesn't take too long for them to grant you access. Now you can start using it.
