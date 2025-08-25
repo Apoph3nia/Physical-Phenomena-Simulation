@@ -12,6 +12,13 @@ Unzip the .zip file.
 
 In Unity Hub > Projects (TAB) > Add > Add project from disk > Select the folder of the project.
 
+
+# Set-up
+
+File > Build Profiles > Select the Physical Phenomena Simulation > Press the Switch Profile button.
+<img width="912" height="763" alt="image" src="https://github.com/user-attachments/assets/d7db6951-950c-49ec-a149-7abdc73bd0aa" />
+
+
 #  AI Assistant Setup
 
 Go on https://huggingface.co/. Sign-up / Log-in. Profile > Access Tokens > Create new Access Token > Type: Fine-grained > On the Inference options check them all > Create Token > Copy the token.
