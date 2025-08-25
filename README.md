@@ -21,7 +21,9 @@ File > Build Profiles > Select the Physical Phenomena Simulation > Press the Swi
 
 #  AI Assistant Setup
 
-Go on https://huggingface.co/. Sign-up / Log-in. Profile > Access Tokens > Create new Access Token > Type: Fine-grained > On the Inference options check them all > Create Token > Copy the token.
+Go on https://huggingface.co/ and Sign-up / Log-in. 
+
+Profile > Access Tokens > Create new Access Token > Type: Fine-grained > On the Inference options check them all > Create Token > Copy the token.
 
 
 In Unity you can assign that token on the Inspector tab of the AI Assistant Object (in its AIAssistant.cs script).
