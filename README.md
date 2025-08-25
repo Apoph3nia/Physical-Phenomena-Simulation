@@ -29,7 +29,9 @@ Profile > Access Tokens > Create new Access Token > Make sure the field Type is 
 In Unity you can assign that token on the Inspector tab of the AI Assistant Object (in its AIAssistant.cs script). You need to do that for both Simulation_1 & Simulation_2 scenes which are located in Assets > Scenes.
 <img width="639" height="308" alt="image" src="https://github.com/user-attachments/assets/98b5201a-4912-4b09-acd8-6da8a4c1e02c" />
 
-<img width="612" height="258" alt="image" src="https://github.com/user-attachments/assets/10ca6cad-08a2-4eb7-b382-63191d318808" />
+
+<img width="304" height="258" alt="image" src="https://github.com/user-attachments/assets/10ca6cad-08a2-4eb7-b382-63191d318808" />
+
 
 <img width="612" height="913" alt="image" src="https://github.com/user-attachments/assets/577ccab8-bd1c-41b2-b7c2-7231fcc9cd91" />
 
