@@ -1,4 +1,4 @@
-# Physical-Phenomena-Simulation
+# Physical-Phenomena-Simulation (keyboard-mouse app & VR app)
 
 Unity Editor Version: 6000.2.0b8
 
@@ -26,7 +26,7 @@ Go on https://huggingface.co/ and Sign-up / Log-in.
 Profile > Access Tokens > Create new Access Token > Make sure the field Type is set to Fine-grained > On the Inference options check them all > Create Token > Copy the token.
 
 
-In Unity you can assign that token on the Inspector tab of the AI Assistant Object (in its AIAssistant.cs script). You need to do that for both Simulation_1 & Simulation_2 scenes which are located in Assets > Scenes.
+In Unity you can assign that token on the Inspector tab of the AI Assistant Object (in its AIAssistant.cs script). You need to do that for both Simulation_1 & Simulation_2 scenes which are located in Assets > Scenes. In the VR app if you don't add a key and try to use the assistant it will crash.
 
 #  Scenes Location
 <img width="639" height="308" alt="image" src="https://github.com/user-attachments/assets/98b5201a-4912-4b09-acd8-6da8a4c1e02c" />
